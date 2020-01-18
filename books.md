@@ -1,3 +1,8 @@
+# 이 파일은..
+```
+지극히 개인적인 시선으로 바라보는 책의 간략한 리뷰입니다
+```
+
 # 토비 스프링
 https://book.naver.com/bookdb/book_detail.nhn?bid=7006514
 ```
