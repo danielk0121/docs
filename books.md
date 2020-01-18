@@ -1,30 +1,40 @@
 # 토비 스프링
+https://book.naver.com/bookdb/book_detail.nhn?bid=7006514
+```
 [스프링 기본]
 1권, 2권으로 구성되고, 각 권마다 1300 페이지 정도의 두꺼운 책 
 2권은 레퍼런스 번역, 소개 위주의 내용이라서 1권만 우선적으로 보는 것도 추천함
 3번 이상 보는것을 추천함
-https://book.naver.com/bookdb/book_detail.nhn?bid=7006514
+```
 
 # 난 정말 java를 공부한 적이 없다구요
+https://book.naver.com/bookdb/book_detail.nhn?bid=6056781
+```
 [자바 기본]
 열혈C 책 쓰신 윤성우님의 자바 기본서
 책이 꽤 두껍고, 기초내용부터 예제 따라하기 형식의 설명 진행이 잘 되어 있어서
 읽으면 개발하면서 공부하는 느낌을 받게됨
 3번 이상 보는것을 추천함
-https://book.naver.com/bookdb/book_detail.nhn?bid=6056781
+```
 
 # 자바스크립트 완벽 가이드
+https://book.naver.com/bookdb/book_detail.nhn?bid=10338797
+```
 [자바스크립트 기본]
 코뿔소 책이라고 불리는 자바스크립트 기본서
-https://book.naver.com/bookdb/book_detail.nhn?bid=10338797
+```
 
 # 이펙티브 자바 2판
+https://book.naver.com/bookdb/book_detail.nhn?bid=8064518
+```
 [자바 고급]
 자바 신님이 추천하신 자바 고급 과정 책
 jdk 사용시 주의점, 유의해야하는 점, 자주 실수하는 부분 등 팁이 많이 있는 노다지 같은 책
-https://book.naver.com/bookdb/book_detail.nhn?bid=8064518
+```
 
 # 윤성우의 열혈 TCP/IP 소켓 프로그래밍
+https://book.naver.com/bookdb/book_detail.nhn?bid=6190577&sug=thumb
+```
 [네트워크 프로그래밍 기본]
 네트워크 소켓 프로그래밍의 6가지 패턴을 기준으로 설명한 소켓 프로그래밍 입문에 좋은 책
 이미 소켓 프로그래밍을 하고 있는 자에게는 비추천일 정도로
@@ -32,9 +42,11 @@ https://book.naver.com/bookdb/book_detail.nhn?bid=8064518
 리눅스 윈도우 두 환경에서 개발 예제가 나와있어서 윈도우 환경의 개발자에게 접근성이 좋다
 리눅스는 일반 유닉스 소켓 C 프로그래밍으로 설명되어있고
 윈도우는 winsock VC 프로그래밍으로 설명되어있다
-https://book.naver.com/bookdb/book_detail.nhn?bid=6190577&sug=thumb
+```
 
 # JAVA언어로 배우는 디자인 패턴 입문
+https://book.naver.com/bookdb/book_detail.nhn?bid=4529127
+```
 [디자인 패턴 기본]
 자바로 디자인 패턴 입문하기에 좋은 책
-https://book.naver.com/bookdb/book_detail.nhn?bid=4529127
+```
