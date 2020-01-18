@@ -1,7 +1,7 @@
 # 토비 스프링
 https://book.naver.com/bookdb/book_detail.nhn?bid=7006514
 ```
-[스프링 기본]
+[스프링 기초]
 1권, 2권으로 구성되고, 각 권마다 1300 페이지 정도의 두꺼운 책 
 2권은 레퍼런스 번역, 소개 위주의 내용이라서 1권만 우선적으로 보는 것도 추천함
 3번 이상 보는것을 추천함
@@ -10,7 +10,7 @@ https://book.naver.com/bookdb/book_detail.nhn?bid=7006514
 # 난 정말 java를 공부한 적이 없다구요
 https://book.naver.com/bookdb/book_detail.nhn?bid=6056781
 ```
-[자바 기본]
+[자바 기초]
 열혈C 책 쓰신 윤성우님의 자바 기본서
 책이 꽤 두껍고, 기초내용부터 예제 따라하기 형식의 설명 진행이 잘 되어 있어서
 읽으면 개발하면서 공부하는 느낌을 받게됨
@@ -20,7 +20,7 @@ https://book.naver.com/bookdb/book_detail.nhn?bid=6056781
 # 자바스크립트 완벽 가이드
 https://book.naver.com/bookdb/book_detail.nhn?bid=10338797
 ```
-[자바스크립트 기본]
+[자바스크립트 기초]
 코뿔소 책이라고 불리는 자바스크립트 기본서
 ```
 
@@ -35,7 +35,7 @@ jdk 사용시 주의점, 유의해야하는 점, 자주 실수하는 부분 등 
 # 윤성우의 열혈 TCP/IP 소켓 프로그래밍
 https://book.naver.com/bookdb/book_detail.nhn?bid=6190577&sug=thumb
 ```
-[네트워크 프로그래밍 기본]
+[네트워크 프로그래밍 기초]
 네트워크 소켓 프로그래밍의 6가지 패턴을 기준으로 설명한 소켓 프로그래밍 입문에 좋은 책
 이미 소켓 프로그래밍을 하고 있는 자에게는 비추천일 정도로
 입문자의 초점에 맞춘 예제 위주의 설명이 잘되어있다
@@ -47,7 +47,7 @@ https://book.naver.com/bookdb/book_detail.nhn?bid=6190577&sug=thumb
 # JAVA언어로 배우는 디자인 패턴 입문
 https://book.naver.com/bookdb/book_detail.nhn?bid=4529127
 ```
-[디자인 패턴 기본]
+[디자인 패턴 기초]
 자바로 디자인 패턴 입문하기에 좋은 책
 ```
 
@@ -65,4 +65,15 @@ https://book.naver.com/bookdb/book_detail.nhn?bid=4774270
 자바스크립트의 대가 더글라스 클락 포드님의 꿀팁 모음 책
 책도 작고 얇은데(240페이지) 쉽지 않은, 생각을 많이하게 되는 책
 10페이지 넘어갔다가 다시 앞으로 넘기고 또 읽고 또 읽으며 허접한 내 실력을 다시 느끼게 해주는 책
+```
+
+# 아마존 웹 서비스를 다루는 기술
+https://book.naver.com/bookdb/book_detail.nhn?bid=8187056
+```
+[aws 기초]
+2020.01 기준, 현재 읽고 있음
+aws 입문, 튜토리얼 정도의 각 aws 서비스별 간략한 기능 소개위주의 책
+가볍게 자주 쓰이는 주요 aws 서비스들을 전반적으로 파악하기에 좋은 책
+800 페이지로 얇지는 않지만, 그렇다고 꿀팁 정도의 내용이 충분하지는 않는 책
+2014년 기준으로 aws 설명이 되어있음
 ```
