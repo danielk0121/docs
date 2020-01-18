@@ -50,3 +50,19 @@ https://book.naver.com/bookdb/book_detail.nhn?bid=4529127
 [디자인 패턴 기본]
 자바로 디자인 패턴 입문하기에 좋은 책
 ```
+
+# UNIX NETWORK PROGRAMMING VOL.1
+https://book.naver.com/bookdb/book_detail.nhn?bid=23471
+```
+[네트워크 프로그래밍 고급, 바이블]
+네트워크 소켓 프로그래밍의 바이블이라고 불리는 책
+```
+
+# 더글라스 크락포드의 자바스크립트 핵심 가이드
+https://book.naver.com/bookdb/book_detail.nhn?bid=4774270
+```
+[자바스크립트 고급]
+자바스크립트의 대가 더글라스 클락 포드님의 꿀팁 모음 책
+책도 작고 얇은데(240페이지) 쉽지 않은, 생각을 많이하게 되는 책
+10페이지 넘어갔다가 다시 앞으로 넘기고 또 읽고 또 읽으며 허접한 내 실력을 다시 느끼게 해주는 책
+```
